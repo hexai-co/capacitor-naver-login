@@ -2,6 +2,9 @@
 
 Capacitor Plugin for Naver Login
 
+DO NOT USE THIS PLUGIN -- IS UNDER DEVELOPMENT
+
+
 ## Install
 
 ```bash
